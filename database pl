@@ -1,0 +1,9 @@
+% First one
+client('B069','Laurent','769, rue de la LALALA','LLN','A1',10000).
+
+% Second one
+data(client,'B069',name,'Laurent').
+data(client,'B069',adress,'69, rue de la LALALA').
+data(client,'B069',town,'LLN').
+data(client,'B069',cat,'A1').
+data(client,'B069',amount,10000).
